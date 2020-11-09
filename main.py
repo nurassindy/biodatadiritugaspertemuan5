@@ -1,0 +1,7 @@
+print("nama lengkap : nur as sindy")
+print("nama panggilan : sindy")
+print("nim : 312010111")
+print("tempat lahir : bekasi")
+print("tanggal lahir : 01 februari 2001")
+print("no telpon : 083896410402")
+print("alamat : jalan karya logam rt 05 rw 005")
